@@ -1,0 +1,436 @@
+[
+  {
+    "title": "Kartalda Satilik Villa",
+    "city": "Istanbul",
+    "district": "Kartal",
+    "price": "1000",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "3+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "140m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "9.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Maltepede Satilik Villa",
+    "city": "Istanbul",
+    "district": "Maptepe",
+    "price": "1000",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "1+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "50m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "1.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Besiktasda Satilik Daire",
+    "city": "Istanbul",
+    "district": "Besiktas",
+    "price": "3000",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "3+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "240m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "3.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Pendik Satilik Daire",
+    "city": "Istanbul",
+    "district": "Pendik",
+    "price": "1200",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "2+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "70m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "2.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Kadikoy Satilik Daire",
+    "city": "Istanbul",
+    "district": "Kadikoy",
+    "price": "1200",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "3+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "140m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "Bahce"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Bostanci Satilik Daire",
+    "city": "Istanbul",
+    "district": "Bostanci",
+    "price": "2510",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "1+0"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "140m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "11.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Maltepe Satilik Daire",
+    "city": "Istanbul",
+    "district": "Maltepe",
+    "price": "2340",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "3+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "140m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "11.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Kartalda Satilik Villa",
+    "city": "Istanbul",
+    "district": "Kartal",
+    "price": "1100",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "2+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "140m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "91.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Maltepede Satilik Villa",
+    "city": "Istanbul",
+    "district": "Maptepe",
+    "price": "1000",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "4+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "140m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "1.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Besiktasda Satilik Daire",
+    "city": "Istanbul",
+    "district": "Besiktas",
+    "price": "3000",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "1+0"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "130m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "3.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Pendik Satilik Daire",
+    "city": "Istanbul",
+    "district": "Pendik",
+    "price": "1200",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "1+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "340m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "12.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Kadikoy Satilik Daire",
+    "city": "Istanbul",
+    "district": "Kadikoy",
+    "price": "1200",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "2+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "240m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "2.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Bostanci Satilik Daire",
+    "city": "Istanbul",
+    "district": "Bostanci",
+    "price": "2500",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "1+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "140m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "11.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  },
+  {
+    "title": "Maltepe Satilik Daire",
+    "city": "Istanbul",
+    "district": "Maltepe",
+    "price": "2300",
+    "image": "http://via.placeholder.com/350X223/00b7dd/cbcbcb",
+    "properties": [
+      {
+        "icon": "https://cdn.evtiko.com/images/oda-sayisi.svg",
+        "data": "1+1"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/metrekare.svg",
+        "data": "140m2"
+      },
+      {
+        "icon": "https://cdn.evtiko.com/images/kat-sayisi.svg",
+        "data": "11.Kat"
+      }
+    ],
+    "links": [
+      {
+        "icon": "https://evtiko.com/assets/images/hurriyetemlak-gri.png",
+        "title": "Hurriyet"
+      },
+      {
+        "icon": "https://evtiko.com/assets/images/sahibinden-gri.png",
+        "title": "Sahibinden"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+@mixin propertie-border-left {
+  border-left: 1px solid #e7ebec;
+}
+
+@mixin propertie-border-right {
+  border-right: 1px solid #e7ebec;
+}
+
+@mixin propertie-border-bottom {
+  border-bottom: 1px solid #e7ebec;
+}
+
+@mixin propertie-border-top {
+  border-top: 1px solid #e7ebec;
+}
+
+@mixin propertie-border-mix {
+  @include propertie-border-left;
+  @include propertie-border-right;
+  @include propertie-border-top;
+}

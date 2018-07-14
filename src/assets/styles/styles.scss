@@ -1,0 +1,32 @@
+/** This sass structure:
+*   Authdor by Ugur Erdal 2018'
+*   https://github.com/ue/sass-boilerplate
+*/
+
+// External libs
+@import '../../../node_modules/breakpoint-sass/stylesheets/breakpoint';
+
+// Mixins
+@import 'mixins/flex-box';
+@import 'mixins/border';
+
+// Functions
+@import 'functions/rem-calc';
+
+// Core
+@import 'core/reset';
+@import 'core/accessibility';
+@import 'core/breakpoints';
+@import 'core/colors';
+@import 'core/fonts';
+@import 'core/global';
+
+// Components
+@import 'components/app';
+@import 'components/container';
+
+// Custom Components
+@import '../../components/headerView/headerStyles';
+@import '../../components/listItemView/listItemStyles';
+@import '../../components/dropdownView/dropdownStyles';
+@import '../../components/filterElements/filterElementsStyles';
